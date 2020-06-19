@@ -4,7 +4,7 @@ Install git for windows10 [https://git-scm.com/downloads](here).
 
 ## For cloning use this command in git bash
 
-     git clone repolink *reponame(optinal)
+     git clone repolink *reponame(optional)
            
 ## check status to commit
      
