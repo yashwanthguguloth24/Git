@@ -1,6 +1,6 @@
 # Few git commands 
 
-Install git for windows10 [https://git-scm.com/downloads](here).
+Install git for windows10 [here](https://git-scm.com/downloads)
 
 ## For cloning use this command in git bash
 
