@@ -1,5 +1,30 @@
-# Example Repository
+# Few git commands 
 
-This is a sample repo , hello world!
+Install git for windows10 [https://git-scm.com/downloads](here).
 
-This is a second change
+## For cloning use this command in git bash
+
+     git clone repolink *reponame(optinal)
+           
+## check status to commit
+     
+     git status
+
+## add file to the repo
+
+     git add filename
+     
+## commit
+
+    git commit -m "my commit"
+
+## push updated repo to github
+
+    git push origin master
+    
+## check commits
+
+    git log
+
+  
+     
